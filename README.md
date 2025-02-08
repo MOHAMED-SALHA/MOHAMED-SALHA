@@ -2,8 +2,7 @@
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Deep Learning Researcher</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com? 
- size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Passionate+about+AI+and+Machine+Learning!;Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Solving+Real-world+Problems+with+AI">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF00&center=true&vCenter=true&lines=Passionate+about+AI+and+Machine+Learning!;Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Solving+Real-world+Problems+with+AI">
 </p>
 
 ---
