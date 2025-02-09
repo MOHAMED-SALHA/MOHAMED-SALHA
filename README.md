@@ -34,7 +34,22 @@
 
 ---
 
-### 🤖 **2. Sentiment Analysis of Arabic Tweets**
+### 🧠 **2. Alzheimer MRI Image Classification**
+✅ **Goal:** Classify MRI images into **'Mild Demented', 'Moderate Demented', 'Non Demented', 'Very Mild Demented'**  
+✅ **Tech Used:** **ResNet152V2**, Transfer Learning, Data Augmentation  
+✅ **Best Accuracy:** **98%**  
+🔗 **Repo**: [Alzheimer Classification]([https://github.com/YourRepo](https://github.com/MOHAMED-SALHA/GraduationProject))  
+
+---
+
+### 🍽 **3. Restaurant Menu Profitability Classification**
+✅ **Goal:** Classify restaurant menu items as **profitable or not**  
+✅ **Tech Used:** Random Forest, KNN, Decision Trees, Feature Engineering  
+✅ **Best Accuracy:** **95%**  
+🔗 **Repo**: [Menu Profitability](https://github.com/MOHAMED-SALHA/-Restaurant-Menu-Item-Profitability-Classification)  
+
+---
+### 🤖 **4. Sentiment Analysis of Arabic Tweets**
 ✅ **Goal:** Classify Arabic tweets as **positive or negative** using NLP  
 ✅ **Tech Used:** TF-IDF, Neural Networks, Dropout, L2 Regularization  
 ✅ **Dataset Size:** **29,000 Arabic tweets**  
@@ -42,21 +57,7 @@
 
 ---
 
-### 🧠 **3. Alzheimer MRI Image Classification**
-✅ **Goal:** Classify MRI images into **'Mild Demented', 'Moderate Demented', 'Non Demented', 'Very Mild Demented'**  
-✅ **Tech Used:** **ResNet152V2**, Transfer Learning, Data Augmentation  
-✅ **Best Accuracy:** **98%**  
-🔗 **Repo**: [Alzheimer Classification](https://github.com/YourRepo)  
 
----
-
-### 🍽 **4. Restaurant Menu Profitability Classification**
-✅ **Goal:** Classify restaurant menu items as **profitable or not**  
-✅ **Tech Used:** Random Forest, KNN, Decision Trees, Feature Engineering  
-✅ **Best Accuracy:** **95%**  
-🔗 **Repo**: [Menu Profitability](https://github.com/YourRepo)  
-
----
 
 ## 🛠 **Technical Skills**  
 - **Programming:** Python, Java  
