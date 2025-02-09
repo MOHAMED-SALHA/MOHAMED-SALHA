@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Ahmed Salha 👋</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Deep Learning Researcher</h3>
+<h3 align="center">Machine Learning Engineer | Deep Learning Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00FF00&center=true&vCenter=true&lines=Passionate+about+AI+and+ML!;Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Solving+Real-world+Problems+with+AI">
@@ -11,7 +11,7 @@
 ## 🚀 **About Me** 
 - 🎓 **Bachelor’s in Computer Science & AI (2023)** from **Zagazig University**  
 - 💡 Passionate about **Machine Learning, Deep Learning, and AI Research**  
-- 🔍 Exploring **Computer Vision, NLP, and Time Series Analysis**  
+- 🔍 Exploring **CNN, NLP, and Time Series Analysis**  
 - 🏆 **Certified Machine Learning Engineer** from **365 Data Science**  
 - 🌎 Open to **collaborations** on AI research & projects  
 
