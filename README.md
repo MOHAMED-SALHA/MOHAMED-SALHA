@@ -38,7 +38,7 @@
 ✅ **Goal:** Classify MRI images into **'Mild Demented', 'Moderate Demented', 'Non Demented', 'Very Mild Demented'**  
 ✅ **Tech Used:** **ResNet152V2**, Transfer Learning, Data Augmentation  
 ✅ **Best Accuracy:** **98%**  
-🔗 **Repo**: [Alzheimer Classification]((https://github.com/MOHAMED-SALHA/GraduationProject))  
+🔗 **Repo**: [Alzheimer Classification](https://github.com/MOHAMED-SALHA/GraduationProject)  
 
 ---
 
