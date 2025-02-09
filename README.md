@@ -49,13 +49,15 @@
 🔗 **Repo**: [Menu Profitability](https://github.com/MOHAMED-SALHA/-Restaurant-Menu-Item-Profitability-Classification)  
 
 ---
-### 🤖 **4. Sentiment Analysis of Arabic Tweets**
-✅ **Goal:** Classify Arabic tweets as **positive or negative** using NLP  
-✅ **Tech Used:** TF-IDF, Neural Networks, Dropout, L2 Regularization  
-✅ **Dataset Size:** **29,000 Arabic tweets**  
-🔗 **Repo**: [Sentiment Analysis](https://github.com/YourRepo)  
+### 🤖 **4. Age of Fossil Regression **
+✅ **Goal:**  Predict the age of fossils using regression techniques 
+✅ **Tech Used:** Label Encoder, Data Visualization, Feature Engineering, Root Mean Square Error (RMSE)   
+✅ **Dataset Size:** **5,500 samples**  
+🔗 **Repo**: [Age of Fossil Regression](https://github.com/MOHAMED-SALHA/Regression-Age-Of-Fossil)  
 
 ---
+
+
 
 
 
